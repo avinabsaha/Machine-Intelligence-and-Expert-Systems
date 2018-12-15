@@ -1,0 +1,12 @@
+Predictions For Train Data
+Raw Outputs for train data
+1.67792031066e-05 0.0718292327856 0.865852347464 0.991617958948 0.18016485266 2.81295892813e-08 0.999596357973 0.865175122118 0.999490254323 2.34058930305e-05 4.90321724851e-07
+Class Labels for train data
+0 0 1 1 0 0 1 1 1 0 0
+Training Accuracy: 100.0
+Predictions for Test Data
+Raw Outputs for test data
+0.996398812558 0.0415068372623
+Class Labels for test data
+1 0
+

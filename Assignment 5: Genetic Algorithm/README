@@ -1,0 +1,19 @@
+To run code:
+	use: python 15EC10071.py on terminal.
+
+Dependencies: random, nltk(Natural Language Toolkit)
+
+
+
+Details about program:
+
+Elitism is used: Top 20% of members pass on to next generation.
+Evolution is used to generate the rest 80% of the genes based on random sampling on 
+2 members(from top 50%) of a generation for next generation.
+
+Fitness Function Used: "Levenshtein edit distance"
+
+
+Two Files are shown for results:
+1. Total evolution from generation 1 to the generation where target is achieved.
+2. Evolution for last 40 iterations.

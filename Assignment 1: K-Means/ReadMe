@@ -1,0 +1,7 @@
+
+To Run the code and generate results: python clustering.py 
+Requirements: sys,pandas,matplotlib,numpy,sklearn,math
+
+The code runs the K Means Algorithm for K=1,2,3,4,5 and saves the plot in the working directory.
+Additionally, the centroids of the clusters are printed on the terminal with the Euclidean Error
+

@@ -1,0 +1,24 @@
+Total 150 instances
+Correctly Classified 144 instances
+Incorrectly Classified 6 instances
+Overall Accuracy:96.0%
+Confusion Matrix:
+[[50  0  0]
+ [ 0 47  3]
+ [ 0  3 47]]
+Details for Class Labelled 0
+Accuracy:100.0%
+Precision:1.0
+Recall:1.0
+F1 Score: 1.0
+Details for Class Labelled 1
+Accuracy:94.0%
+Precision:0.94
+Recall:0.94
+F1 Score: 0.94
+Details for Class Labelled 2
+Accuracy:94.0%
+Precision:0.94
+Recall:0.94
+F1 Score: 0.94
+

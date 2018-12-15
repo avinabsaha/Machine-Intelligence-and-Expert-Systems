@@ -1,0 +1,17 @@
+To run the code, use python 15EC10071.py
+
+Dependencies: numpy and sklearn
+Datset: iris.csv
+
+Details:
+For Naive Implementation:
+First we store all the training examples as KNN is an example of instance based learning.
+Then for the test case, 
+We find distances of each the test example from each of the training example.
+Now, depending on value of K we take those many closest neighbours and take the majority vote on their classification label.
+
+For Sklearn implementation:
+Use KNeighborsClassifier(n_neighbors=k) for defining the model, and fit and predict to train and test the model.
+
+
+

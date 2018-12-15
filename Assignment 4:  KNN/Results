@@ -1,0 +1,18 @@
+Sample Output:
+For k equals: 1
+Prediction using Own Implementation Iris-virginica
+Prediction using Sklearn Implementation Iris-virginica
+For k equals: 2
+Prediction using Own Implementation Iris-virginica
+Prediction using Sklearn Implementation Iris-virginica
+For k equals: 3
+Prediction using Own Implementation Iris-virginica
+Prediction using Sklearn Implementation Iris-virginica
+For k equals: 4
+Prediction using Own Implementation Iris-virginica
+Prediction using Sklearn Implementation Iris-virginica
+For k equals: 5
+Prediction using Own Implementation Iris-virginica
+Prediction using Sklearn Implementation Iris-virginica
+
+ 

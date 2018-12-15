@@ -1,0 +1,12 @@
+Instructions to Run the code: python 15EC10071.py
+Requirements: matplotlib,numpy,scipy
+
+FPF and FNF are directly found from the Normal Distributions provided.
+They are stored in an array.
+TPF is obtained as 1-FNF
+
+Now, FPF and TPF are plotted. The code will produce the results as .png files in the working directory (for both companies)
+
+The Area under the plots are found using Trapezium Approximation of Area under curve.
+
+The both areas are compared and the one with the higher area is displayed as the preferred device as higher area corresponds to higher accuracy
